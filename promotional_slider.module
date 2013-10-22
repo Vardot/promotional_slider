@@ -1,0 +1,7 @@
+<?php
+/**
+ * @file
+ * Code for the Promotional slider feature.
+ */
+
+include_once 'promotional_slider.features.inc';
